@@ -21,7 +21,7 @@ ici on  *parle* d'autre _chose_
 1. one
 2. two
 4. three
-four
+3. four
 
 * pierre
 * paul
